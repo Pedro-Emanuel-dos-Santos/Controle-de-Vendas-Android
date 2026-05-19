@@ -21,4 +21,4 @@ Auxiliar pequenos estabelecimentos no controle de vendas e estoque através de u
 
 ## Autor
 
-Aluno do curso de Tecnologia da Informação - Estácio
+Pedro Emanuel
